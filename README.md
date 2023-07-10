@@ -1,9 +1,4 @@
 <h1 align="center">Olá, sou Elvis Claudino e tenho 19 anos 👋</h1>
-<div align="center">
-  <a href="https://github.com/elvisclaudino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvisclaudino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisclaudino&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -27,3 +22,9 @@
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <a href="https://github.com/elvisclaudino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvisclaudino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisclaudino&layout=compact&langs_count=7&theme=dark"/>
+</div>
