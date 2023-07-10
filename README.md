@@ -1,12 +1,8 @@
-<h1>Olá, sou Elvis Claudino e tenho 19 anos 👋</h1>
-
-<p>🔭 Em busca de emprego</p>
-<p>🌱 Evoluindo no front-end</p>
-
+<h1 align="center">Olá, sou Elvis Claudino e tenho 19 anos 👋</h1>
 <div align="center">
   <a href="https://github.com/elvisclaudino">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=elvisclaudino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisclaudino&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvisclaudino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisclaudino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div  align="center"> 
@@ -19,13 +15,13 @@
    </div>
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: elvisclaudino6@gmail.com">
+    <a href = "mailto: elvisclaudino6@gmail.com" target="_blank">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/elvis-claudino/">
+    <a href = "https://www.linkedin.com/in/elvis-claudino/" target="_blank">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/claudino_elvis/">
+    <a href = "https://www.instagram.com/claudino_elvis/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
 </div>
