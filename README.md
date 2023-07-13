@@ -1,4 +1,7 @@
 <h1 align="center">Olá, sou Elvis Claudino e tenho 19 anos 👋</h1>
+<p align="center"> 🔎 Procurando por oportunidades </p>
+<p align="center"> 🌱 Evoluindo constantemente </p>
+<p align="center"> 📬 elvisclaudino6@gmail.com </p>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
