@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Elvis, tenho 20 anos e atualmente atuo como desenvolvedor Web.</p>
+<p align="left">Meu nome é Elvis, tenho 20 anos e atuo como desenvolvedor Web.</p>
 
 ###
 
