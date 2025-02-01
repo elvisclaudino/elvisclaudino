@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvendo há 3 anos<br>📚 Atualmente estudando .Net</p>
+<p align="left">✨ Desenvolvendo há 3 anos<br>📚 Atualmente estudando Next</p>
 
 ###
 
