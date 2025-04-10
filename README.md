@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elvisclaudino&theme=shadow-purple&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elvisclaudino&theme=transparent&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&card_width=490" alt="GitHub Streak" /></a>
 </div>
 
 ###
