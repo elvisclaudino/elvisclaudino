@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
@@ -23,13 +23,8 @@
 
 ###
 
-<h2 align="left">Contact</h2>
-
-###
-
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=elvisclaudino&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvisclaudino&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elvisclaudino&theme=shadow-purple&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 ###
