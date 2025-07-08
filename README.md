@@ -18,6 +18,7 @@
 <li>JS & TS</li>
 <li>NextJs</li>
 <li>NestJs</li>
+<li>.NET</li>
 
 ###
 
